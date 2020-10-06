@@ -11,3 +11,11 @@ Flow of scraper are following
 2. According to response result, extract the url in href for getting detailed profile of the member
 3. Export extracted data into pandas
 
+IECA Member Search Page
+![Screenshot](Selection_050.png)
+
+Scraping process
+![Screenshot](Selection_051.png)
+
+Result
+![Screenshot](Selection_052.png)
